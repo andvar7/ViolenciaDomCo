@@ -8,4 +8,3 @@ dependencies:
   - pyarrow>=5.0.0
   - gunicorn
   - flask
-  - any other libraries you need
