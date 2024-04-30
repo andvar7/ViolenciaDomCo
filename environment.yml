@@ -1,0 +1,11 @@
+name: Violencia_Domestica_CO
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - pyarrow>=5.0.0
+  - gunicorn
+  - flask
+  - any other libraries you need
