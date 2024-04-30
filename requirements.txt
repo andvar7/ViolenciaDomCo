@@ -5,3 +5,5 @@ pandas==2.2.2
 scikit_learn==1.4.2
 gunicorn
 dash-tools
+fastparquet
+pyarrow
